@@ -1,5 +1,5 @@
 {
-  "name": "fast-cache",
+  "name": "fast-cache-qym",
   "version": "0.0.1",
   "description": "短小精悍的前端缓存工具，防止�内存“侧漏”",
   "main": "src/index.js",
@@ -30,5 +30,8 @@
     "babel-preset-latest": "^6.24.1",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "user": "0.0.0"
   }
 }
